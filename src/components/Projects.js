@@ -1,7 +1,6 @@
 // Import Assets
-import uniswap from '../assets/uniswap.png';
+import aboutme from '../assets/aboutme.png';
 import compound from '../assets/compound.png';
-import aave from '../assets/aave.png';
 
 const Projects = () => {
     return (
